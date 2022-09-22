@@ -1,0 +1,7 @@
+﻿  Source.cpp
+D:\c++uni\алгоритми і структури даних\dijsktra_algorithm\Source.cpp(102,27): warning C4018: '<': signed/unsigned mismatch
+D:\c++uni\алгоритми і структури даних\dijsktra_algorithm\Source.cpp(126,27): warning C4018: '<': signed/unsigned mismatch
+D:\c++uni\алгоритми і структури даних\dijsktra_algorithm\Source.cpp(136,27): warning C4018: '<': signed/unsigned mismatch
+D:\c++uni\алгоритми і структури даних\dijsktra_algorithm\Source.cpp(184,23): warning C4018: '<': signed/unsigned mismatch
+D:\c++uni\алгоритми і структури даних\dijsktra_algorithm\Source.cpp(243,27): warning C4018: '<': signed/unsigned mismatch
+  dijsktra_algorithm.vcxproj -> D:\c++uni\алгоритми і структури даних\dijsktra_algorithm\Debug\dijsktra_algorithm.exe
