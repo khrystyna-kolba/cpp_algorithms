@@ -1,0 +1,10 @@
+﻿  Source.cpp
+D:\c++uni\алгоритми і структури даних\my_table\Source.cpp(31,22): warning C4018: '<': signed/unsigned mismatch
+D:\c++uni\алгоритми і структури даних\my_table\Source.cpp(44,21): warning C4018: '<': signed/unsigned mismatch
+D:\c++uni\алгоритми і структури даних\my_table\Source.cpp(55,21): warning C4018: '<': signed/unsigned mismatch
+D:\c++uni\алгоритми і структури даних\my_table\Source.cpp(71,13): warning C4018: '>=': signed/unsigned mismatch
+D:\c++uni\алгоритми і структури даних\my_table\Source.cpp(82,25): warning C4018: '<': signed/unsigned mismatch
+D:\c++uni\алгоритми і структури даних\my_table\Source.cpp(89,13): warning C4018: '>=': signed/unsigned mismatch
+D:\c++uni\алгоритми і структури даних\my_table\Source.cpp(93,25): warning C4018: '<': signed/unsigned mismatch
+D:\c++uni\алгоритми і структури даних\my_table\Source.cpp(99,21): warning C4018: '<': signed/unsigned mismatch
+  my_table.vcxproj -> D:\c++uni\алгоритми і структури даних\my_table\Debug\my_table.exe

@@ -1,0 +1,5 @@
+﻿  testmarkov.cpp
+D:\c++uni\алгоритми і структури даних\markov\source.cpp(153,11): warning C4018: '>': signed/unsigned mismatch
+D:\c++uni\алгоритми і структури даних\markov\source.cpp(171,11): warning C4018: '>': signed/unsigned mismatch
+D:\c++uni\алгоритми і структури даних\markov\source.cpp(213,21): warning C4018: '<': signed/unsigned mismatch
+  testmarkov.vcxproj -> D:\c++uni\алгоритми і структури даних\markov\Debug\testmarkov.dll
