@@ -1,0 +1,1 @@
+D:\c++uni\алгоритми і структури даних\sparse_matrix\Debug\sparse_matrix.exe

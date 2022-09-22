@@ -1,0 +1,36 @@
+﻿  Source.cpp
+D:\c++uni\алгоритми і структури даних\sparse_matrix_vector_struct\Source.cpp(158,21): warning C4018: '<': signed/unsigned mismatch
+D:\c++uni\алгоритми і структури даних\sparse_matrix_vector_struct\Source.cpp(149): message : while compiling class template member function 'void SparseMatrix<int>::remove_element(size_t,size_t)'
+D:\c++uni\алгоритми і структури даних\sparse_matrix_vector_struct\Source.cpp(356): message : see reference to function template instantiation 'void SparseMatrix<int>::remove_element(size_t,size_t)' being compiled
+D:\c++uni\алгоритми і структури даних\sparse_matrix_vector_struct\Source.cpp(331): message : see reference to class template instantiation 'SparseMatrix<int>' being compiled
+D:\c++uni\алгоритми і структури даних\sparse_matrix_vector_struct\Source.cpp(84,21): warning C4018: '<': signed/unsigned mismatch
+D:\c++uni\алгоритми і структури даних\sparse_matrix_vector_struct\Source.cpp(81): message : while compiling class template member function 'T SparseMatrix<T>::get(size_t,size_t) const'
+          with
+          [
+              T=int
+          ]
+D:\c++uni\алгоритми і структури даних\sparse_matrix_vector_struct\Source.cpp(334): message : see reference to function template instantiation 'T SparseMatrix<T>::get(size_t,size_t) const' being compiled
+          with
+          [
+              T=int
+          ]
+D:\c++uni\алгоритми і структури даних\sparse_matrix_vector_struct\Source.cpp(42,22): warning C4018: '<': signed/unsigned mismatch
+D:\c++uni\алгоритми і структури даних\sparse_matrix_vector_struct\Source.cpp(40): message : while compiling class template member function 'std::ostream &operator <<(std::ostream &,SparseMatrix<int>)'
+D:\c++uni\алгоритми і структури даних\sparse_matrix_vector_struct\Source.cpp(371): message : see reference to function template instantiation 'std::ostream &operator <<(std::ostream &,SparseMatrix<int>)' being compiled
+D:\c++uni\алгоритми і структури даних\sparse_matrix_vector_struct\Source.cpp(43,23): warning C4018: '<': signed/unsigned mismatch
+D:\c++uni\алгоритми і структури даних\sparse_matrix_vector_struct\Source.cpp(53,21): warning C4018: '<': signed/unsigned mismatch
+D:\c++uni\алгоритми і структури даних\sparse_matrix_vector_struct\Source.cpp(54,22): warning C4018: '<': signed/unsigned mismatch
+D:\c++uni\алгоритми і структури даних\sparse_matrix_vector_struct\Source.cpp(57,12): warning C4018: '<': signed/unsigned mismatch
+D:\c++uni\алгоритми і структури даних\sparse_matrix_vector_struct\Source.cpp(115,21): warning C4018: '<': signed/unsigned mismatch
+D:\c++uni\алгоритми і структури даних\sparse_matrix_vector_struct\Source.cpp(113): message : while compiling class template member function 'void SparseMatrix<int>::sort_sparse_matrix_cols(void)'
+D:\c++uni\алгоритми і структури даних\sparse_matrix_vector_struct\Source.cpp(182): message : see reference to function template instantiation 'void SparseMatrix<int>::sort_sparse_matrix_cols(void)' being compiled
+D:\c++uni\алгоритми і структури даних\sparse_matrix_vector_struct\Source.cpp(116,22): warning C4018: '<': signed/unsigned mismatch
+D:\c++uni\алгоритми і структури даних\sparse_matrix_vector_struct\Source.cpp(122,21): warning C4018: '<': signed/unsigned mismatch
+D:\c++uni\алгоритми і структури даних\sparse_matrix_vector_struct\Source.cpp(123,22): warning C4018: '<': signed/unsigned mismatch
+D:\c++uni\алгоритми і структури даних\sparse_matrix_vector_struct\Source.cpp(98,21): warning C4018: '<': signed/unsigned mismatch
+D:\c++uni\алгоритми і структури даних\sparse_matrix_vector_struct\Source.cpp(96): message : while compiling class template member function 'void SparseMatrix<int>::sort_sparse_matrix(void)'
+D:\c++uni\алгоритми і структури даних\sparse_matrix_vector_struct\Source.cpp(290): message : see reference to function template instantiation 'void SparseMatrix<int>::sort_sparse_matrix(void)' being compiled
+D:\c++uni\алгоритми і структури даних\sparse_matrix_vector_struct\Source.cpp(99,22): warning C4018: '<': signed/unsigned mismatch
+D:\c++uni\алгоритми і структури даних\sparse_matrix_vector_struct\Source.cpp(105,21): warning C4018: '<': signed/unsigned mismatch
+D:\c++uni\алгоритми і структури даних\sparse_matrix_vector_struct\Source.cpp(106,22): warning C4018: '<': signed/unsigned mismatch
+  sparse_matrix_vector_struct.vcxproj -> D:\c++uni\алгоритми і структури даних\sparse_matrix_vector_struct\Debug\sparse_matrix_vector_struct.exe
