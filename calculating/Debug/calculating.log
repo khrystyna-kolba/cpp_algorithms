@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\c++uni\алгоритми і структури даних\calculating\Source.cpp(97,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\c++uni\алгоритми і структури даних\calculating\Source.cpp(72): warning C4715: 'calculate': not all control paths return a value
+  calculating.vcxproj -> D:\c++uni\алгоритми і структури даних\calculating\Debug\calculating.exe
