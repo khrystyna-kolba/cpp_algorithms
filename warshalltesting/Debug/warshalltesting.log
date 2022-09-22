@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\c++uni\warshalltesting\Source.cpp(34,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  warshalltesting.vcxproj -> D:\c++uni\warshalltesting\Debug\warshalltesting.exe
