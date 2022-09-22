@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\c++uni\алгоритми і структури даних\heap_sort\Source.cpp(37,21): warning C4018: '<': signed/unsigned mismatch
+D:\c++uni\алгоритми і структури даних\heap_sort\Source.cpp(38,20): warning C4018: '>=': signed/unsigned mismatch
+D:\c++uni\алгоритми і структури даних\heap_sort\Source.cpp(106,16): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  heap_sort.vcxproj -> D:\c++uni\алгоритми і структури даних\heap_sort\Debug\heap_sort.exe
