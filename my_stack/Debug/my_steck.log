@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (my_steck.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+D:\c++uni\алгоритми і структури даних\my_stack\Source.cpp(29,22): warning C4018: '<': signed/unsigned mismatch
+D:\c++uni\алгоритми і структури даних\my_stack\Source.cpp(53,22): warning C4018: '<': signed/unsigned mismatch
+  my_steck.vcxproj -> D:\c++uni\алгоритми і структури даних\my_stack\Debug\my_stack.exe

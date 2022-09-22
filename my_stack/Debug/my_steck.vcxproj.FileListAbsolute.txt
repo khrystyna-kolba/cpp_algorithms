@@ -1,0 +1,2 @@
+D:\c++uni\алгоритми і структури даних\my_steck\Debug\my_steck.exe
+D:\c++uni\алгоритми і структури даних\my_stack\Debug\my_stack.exe

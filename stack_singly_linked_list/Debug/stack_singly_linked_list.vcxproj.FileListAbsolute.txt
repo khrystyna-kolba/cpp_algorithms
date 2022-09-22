@@ -1,0 +1,1 @@
+D:\c++uni\алгоритми і структури даних\stack_singly_linked_list\Debug\stack_singly_linked_list.exe
